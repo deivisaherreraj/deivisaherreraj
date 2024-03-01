@@ -18,7 +18,7 @@ Soy Deivis Andres Herrera Julio, un apasionado/a del desarrollo de software y la
 
 - 🔭 Actualmente estoy trabajando en SoftwareOne Colombia.
 - 🌱 Estoy aprendiendo .NET MAUI, Vue.js, React.js, Python (Django, Reflex), Electron.js.
-- 💬 Pregúntame sobre C#, .NET Core, PHP, HTML, CSS, Angular y Node.js.
+- 💬 Pregúntame sobre SQL, C#, .NET+, PHP, HTML, CSS, Angular, JavaScript/TypeScript y Node.js.
 
 ## 🔧 Tecnologías y Herramientas
 
@@ -38,12 +38,12 @@ Actualmente, estoy enfocado/a en mejorar mis habilidades en Python (Django, Refl
 
 Me encanta contribuir a proyectos de código abierto y colaborar con la comunidad. Si tienes algún proyecto interesante, ¡estaré encantado de echar un vistazo y ayudar si puedo!
 
-
 ## 📫 Cómo Contactarme
 
 Puedes encontrarme en diferentes plataformas:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Deivis_Herrera-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@dherrerajdev)[![Twitter](https://img.shields.io/badge/Twitter-@deivisaherreraj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/deivisaherreraj)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deivis_Herrera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/deivisaherreraj)[![Portfolio](https://img.shields.io/badge/Web-DherreraDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dherrerajdev.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-Deivis_Herrera-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@dherrerajdev)[![Twitch](https://img.shields.io/badge/Twitch-DeivisAHerreraJ-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/deivisaherreraj)
+[![Discord](https://img.shields.io/badge/Discord-DHerreraJDev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/4pqbjXsrUX)[![Twitter](https://img.shields.io/badge/Twitter-@deivisaherreraj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/deivisaherreraj)[![Instagram](https://img.shields.io/badge/Instagram-@deivisaherreraj-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/deivisaherreraj)[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeivisAHerreraJ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/deivisaherreraj)[![Link](https://img.shields.io/badge/Link_Site-DHerreraJ.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dherrerajdev.netlify.app)[![Portfolio](https://img.shields.io/badge/Web-DHerreraJ.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dherreraj.netlify.app)
 
 ## Estadísticas de GitHub
 
