@@ -1,5 +1,6 @@
 ﻿# ¡Hola 👋, bienvenido/a a mi perfil de GitHub!
 
+![Profile Views](https://komarev.com/ghpvc/?username=deivisaherreraj&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/deivisaherreraj?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/deivisaherreraj?style=social)
 
@@ -8,10 +9,6 @@
 💡 **Apasionado por la innovación**: Siempre en busca de nuevas tecnologías y metodologías para mejorar mis proyectos. Colaboro activamente en comunidades de código abierto, comparto conocimientos y busco inspirar a otros desarrolladores.
 
 🔗 **Listo para transformar ideas en soluciones efectivas**: Mi objetivo es generar resultados tangibles y adaptados a las necesidades de cada cliente, combinando experiencia técnica con un enfoque proactivo en cada desafío.
-
-<p align="left">
-   <img src="https://komarev.com/ghpvc/?username=deivisaherreraj&label=Profile%20views&color=0e75b6&style=flat" alt="deivisaherreraj" />
-</p>
 
 ## 🛠️ Tecnologías y Herramientas
 
