@@ -1,8 +1,8 @@
 ﻿# ¡Hola 👋, bienvenido/a a mi perfil de GitHub!
-### Systems Engineer & Developer Full-Stack
 
-<p align="center" width="300">
+<p align="center" width="300">   
    <img align="center" width="200" src="https://github.com/deivisaherreraj/deivisaherreraj/blob/produccion/assets/1705635820132-modified.png"  />
+   <h3 align="center">Systems Engineer & Developer Full-Stack</h3>
 </p>
 
 ![GitHub Followers](https://img.shields.io/github/followers/deivisaherreraj?style=social)
@@ -14,7 +14,9 @@
 
 🔗 **Listo para transformar ideas en soluciones efectivas**: Mi objetivo es generar resultados tangibles y adaptados a las necesidades de cada cliente, combinando experiencia técnica con un enfoque proactivo en cada desafío.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deivisaherreraj&label=Profile%20views&color=0e75b6&style=flat" alt="deivisaherreraj" /> </p>
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=deivisaherreraj&label=Profile%20views&color=0e75b6&style=flat" alt="deivisaherreraj" />
+</p>
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -40,7 +42,7 @@ Puedes encontrarme en diferentes plataformas:
 
 ## Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=deivisaherreraj&show_icons=true&theme=transparent)](https://github.com/deivisaherreraj)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=deivisaherreraj&show_icons=true&rank_icon=github&theme=dark&locale=es)](https://github.com/deivisaherreraj)
 
 ## ¡Conectemos!
 
