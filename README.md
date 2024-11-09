@@ -1,10 +1,5 @@
 ﻿# ¡Hola 👋, bienvenido/a a mi perfil de GitHub!
 
-<p align="center" width="300">   
-   <img align="center" width="200" src="https://github.com/deivisaherreraj/deivisaherreraj/blob/produccion/assets/1705635820132-modified.png"  />
-   <h3 align="center">Systems Engineer & Developer Full-Stack</h3>
-</p>
-
 ![GitHub Followers](https://img.shields.io/github/followers/deivisaherreraj?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/deivisaherreraj?style=social)
 
