@@ -1,5 +1,7 @@
 ﻿# ¡Hola 👋, bienvenido/a a mi perfil de GitHub!
 
+![Cover Image](https://raw.githubusercontent.com/deivisaherreraj/deivisaherreraj/produccion/assets/portada-design-dherrerajdev.png)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=deivisaherreraj&label=Profile%20Views&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/deivisaherreraj?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/deivisaherreraj?style=social)
