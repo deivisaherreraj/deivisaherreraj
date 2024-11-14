@@ -32,7 +32,7 @@ En constante crecimiento en áreas de **Frontend** y **Backend** para mejorar mi
 
 Puedes encontrarme en diferentes plataformas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeivisAHerreraJ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/deivisaherreraj)[![Link](https://img.shields.io/badge/Link_Site-DHerreraJ.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dherrerajdev.vercel.app)[![Portfolio](https://img.shields.io/badge/Portfolio-DHerreraJ.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dherreraj.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DeivisAHerreraJ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/deivisaherreraj)[![Link](https://img.shields.io/badge/link_site-dherreraj.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://dherrerajdev.vercel.app)[![Portfolio](https://img.shields.io/badge/portfolio-deivisaherreraj.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://deivisaherreraj.netlify.app)
 
 ## Estadísticas de GitHub
 
